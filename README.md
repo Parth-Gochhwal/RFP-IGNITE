@@ -296,6 +296,6 @@ This project is a proof-of-concept developed for the EY Techathon.
 
 ## Acknowledgments
 
-Built for EY Techathon by Team RFP Ignite.
+Built for EY Techathon by Team Win.exe.
 
 Designed for transparency. Built for governance. Ready to scale.
