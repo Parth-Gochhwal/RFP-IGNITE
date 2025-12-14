@@ -1,0 +1,369 @@
+{
+  "rfp_id": "RFP-002",
+  "approved_at": "2025-12-13T15:31:34.656161",
+  "approved_by": "Test Reviewer",
+  "final_response": {
+    "success": true,
+    "rfp_id": "RFP-002",
+    "buyer": "Gujarat State Electricity Corporation Limited (GSECL)",
+    "title": "Supply of HT Cables at GSECL, Ukai TPS",
+    "submission_due_date": "2026-01-15",
+    "currency": "INR",
+    "technical_recommendations": {
+      "rfp_id": "RFP-002",
+      "recommendations": [
+        {
+          "line_id": "RFP2-ITEM1",
+          "description": "Aluminium Cable 1 Core x 1000 sqmm HT",
+          "category": "ht_power_cable",
+          "requested_core_count": 1,
+          "requested_area_sqmm": 1000.0,
+          "top_matches": [
+            {
+              "sku": "DELT-HT-1C-1000-03",
+              "oem": "Delton",
+              "score": 54.55,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "APAR-HT-1C-1000-02",
+              "oem": "APAR",
+              "score": 50.0,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "POLY-HT-1C-1000-01",
+              "oem": "Polycab",
+              "score": 46.15,
+              "core_count": null,
+              "area_sqmm": null
+            }
+          ],
+          "best_sku": "DELT-HT-1C-1000-03"
+        },
+        {
+          "line_id": "RFP2-ITEM2",
+          "description": "Aluminium Cable 3 Core x 185 sqmm HT",
+          "category": "ht_power_cable",
+          "requested_core_count": 3,
+          "requested_area_sqmm": 185.0,
+          "top_matches": [
+            {
+              "sku": "DELT-HT-3C-185-03",
+              "oem": "Delton",
+              "score": 54.55,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "POLY-HT-3C-185-01",
+              "oem": "Polycab",
+              "score": 50.0,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "APAR-HT-3C-185-02",
+              "oem": "APAR",
+              "score": 50.0,
+              "core_count": null,
+              "area_sqmm": null
+            }
+          ],
+          "best_sku": "DELT-HT-3C-185-03"
+        },
+        {
+          "line_id": "RFP2-ITEM3",
+          "description": "Aluminium Cable 3 Core x 240 sqmm XLPE 11 kV HT",
+          "category": "ht_power_cable",
+          "requested_core_count": 3,
+          "requested_area_sqmm": 240.0,
+          "top_matches": [
+            {
+              "sku": "POLY-HT-3C-240-01",
+              "oem": "Polycab",
+              "score": 75.0,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "POLY-HT-3C-185-01",
+              "oem": "Polycab",
+              "score": 61.54,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "POLY-HT-1C-1000-01",
+              "oem": "Polycab",
+              "score": 57.14,
+              "core_count": null,
+              "area_sqmm": null
+            }
+          ],
+          "best_sku": "POLY-HT-3C-240-01"
+        },
+        {
+          "line_id": "RFP2-ITEM4",
+          "description": "3C x 50 sqmm 11kV(E) Grade HT XLPE Insulated Fixed Al Cable",
+          "category": "ht_power_cable",
+          "requested_core_count": 3,
+          "requested_area_sqmm": 50.0,
+          "top_matches": [
+            {
+              "sku": "POLY-HT-3C-50-01",
+              "oem": "Polycab",
+              "score": 78.57,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "DELT-HT-3C-50-03",
+              "oem": "Delton",
+              "score": 53.33,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "POLY-HT-1C-50-01",
+              "oem": "Polycab",
+              "score": 53.33,
+              "core_count": null,
+              "area_sqmm": null
+            }
+          ],
+          "best_sku": "POLY-HT-3C-50-01"
+        },
+        {
+          "line_id": "RFP2-ITEM5",
+          "description": "1C x 50 sqmm 11kV(E) Grade HT XLPE Insulated Fixed Al Cable",
+          "category": "ht_power_cable",
+          "requested_core_count": 1,
+          "requested_area_sqmm": 50.0,
+          "top_matches": [
+            {
+              "sku": "POLY-HT-3C-50-01",
+              "oem": "Polycab",
+              "score": 66.67,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "POLY-HT-1C-50-01",
+              "oem": "Polycab",
+              "score": 64.29,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "DELT-HT-1C-50-03",
+              "oem": "Delton",
+              "score": 53.33,
+              "core_count": null,
+              "area_sqmm": null
+            }
+          ],
+          "best_sku": "POLY-HT-3C-50-01"
+        },
+        {
+          "line_id": "RFP2-ITEM6",
+          "description": "Copper Cable 1 Core x 630 sqmm",
+          "category": "ht_power_cable",
+          "requested_core_count": 1,
+          "requested_area_sqmm": 630.0,
+          "top_matches": [
+            {
+              "sku": "POLY-HT-1C-630CU-01",
+              "oem": "Polycab",
+              "score": 50.0,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "DELT-HT-1C-630CU-03",
+              "oem": "Delton",
+              "score": 45.45,
+              "core_count": null,
+              "area_sqmm": null
+            },
+            {
+              "sku": "APAR-HT-1C-630CU-02",
+              "oem": "APAR",
+              "score": 41.67,
+              "core_count": null,
+              "area_sqmm": null
+            }
+          ],
+          "best_sku": "POLY-HT-1C-630CU-01"
+        }
+      ]
+    },
+    "pricing": {
+      "rfp_id": "RFP-002",
+      "line_items": [
+        {
+          "line_id": "RFP2-ITEM1",
+          "description": "Aluminium Cable 1 Core x 1000 sqmm HT",
+          "category": "ht_power_cable",
+          "best_sku": "DELT-HT-1C-1000-03",
+          "quantity": 7.0,
+          "unit": "kilometer",
+          "unit_price": 3248.0000000000005,
+          "material_total": 27737.920000000006,
+          "line_level_tests": [
+            {
+              "code": "ROUTINE_TEST_PER_DRUM",
+              "description": "Routine tests per drum: conductor resistance, HV, armour resistance",
+              "cost": 3500.0
+            }
+          ],
+          "line_level_tests_total": 3500.0
+        },
+        {
+          "line_id": "RFP2-ITEM2",
+          "description": "Aluminium Cable 3 Core x 185 sqmm HT",
+          "category": "ht_power_cable",
+          "best_sku": "DELT-HT-3C-185-03",
+          "quantity": 4.2,
+          "unit": "kilometer",
+          "unit_price": 1624.0000000000002,
+          "material_total": 8321.376000000002,
+          "line_level_tests": [
+            {
+              "code": "ROUTINE_TEST_PER_DRUM",
+              "description": "Routine tests per drum: conductor resistance, HV, armour resistance",
+              "cost": 3500.0
+            }
+          ],
+          "line_level_tests_total": 3500.0
+        },
+        {
+          "line_id": "RFP2-ITEM3",
+          "description": "Aluminium Cable 3 Core x 240 sqmm XLPE 11 kV HT",
+          "category": "ht_power_cable",
+          "best_sku": "POLY-HT-3C-240-01",
+          "quantity": 1.0,
+          "unit": "kilometer",
+          "unit_price": 2240.0,
+          "material_total": 2732.7999999999997,
+          "line_level_tests": [
+            {
+              "code": "ROUTINE_TEST_PER_DRUM",
+              "description": "Routine tests per drum: conductor resistance, HV, armour resistance",
+              "cost": 3500.0
+            }
+          ],
+          "line_level_tests_total": 3500.0
+        },
+        {
+          "line_id": "RFP2-ITEM4",
+          "description": "3C x 50 sqmm 11kV(E) Grade HT XLPE Insulated Fixed Al Cable",
+          "category": "ht_power_cable",
+          "best_sku": "POLY-HT-3C-50-01",
+          "quantity": 100.0,
+          "unit": "meter",
+          "unit_price": 448.00000000000006,
+          "material_total": 54656.00000000001,
+          "line_level_tests": [
+            {
+              "code": "ROUTINE_TEST_PER_DRUM",
+              "description": "Routine tests per drum: conductor resistance, HV, armour resistance",
+              "cost": 3500.0
+            }
+          ],
+          "line_level_tests_total": 3500.0
+        },
+        {
+          "line_id": "RFP2-ITEM5",
+          "description": "1C x 50 sqmm 11kV(E) Grade HT XLPE Insulated Fixed Al Cable",
+          "category": "ht_power_cable",
+          "best_sku": "POLY-HT-3C-50-01",
+          "quantity": 100.0,
+          "unit": "meter",
+          "unit_price": 448.00000000000006,
+          "material_total": 54656.00000000001,
+          "line_level_tests": [
+            {
+              "code": "ROUTINE_TEST_PER_DRUM",
+              "description": "Routine tests per drum: conductor resistance, HV, armour resistance",
+              "cost": 3500.0
+            }
+          ],
+          "line_level_tests_total": 3500.0
+        },
+        {
+          "line_id": "RFP2-ITEM6",
+          "description": "Copper Cable 1 Core x 630 sqmm",
+          "category": "ht_power_cable",
+          "best_sku": "POLY-HT-1C-630CU-01",
+          "quantity": 1000.0,
+          "unit": "meter",
+          "unit_price": 2800.0000000000005,
+          "material_total": 3416000.0000000005,
+          "line_level_tests": [
+            {
+              "code": "ROUTINE_TEST_PER_DRUM",
+              "description": "Routine tests per drum: conductor resistance, HV, armour resistance",
+              "cost": 3500.0
+            }
+          ],
+          "line_level_tests_total": 3500.0
+        }
+      ],
+      "global_tests": [
+        {
+          "code": "HT_ACCEPTANCE_TEST_SUITE",
+          "description": "Acceptance tests for HT power cables for each lot (conductor tests, thickness, IR, HV, PD where applicable)",
+          "cost": 90000.0,
+          "applied_for": "per_rfp"
+        },
+        {
+          "code": "HT_TYPE_TEST_SUITE",
+          "description": "Full type test suite for HT XLPE power cables as per IS 7098 Part-II: dielectric, partial discharge, heating cycle, impulse withstand, flammability, mechanical tests",
+          "cost": 180000.0,
+          "applied_for": "per_category:ht_power_cable"
+        }
+      ],
+      "totals": {
+        "material_total": 3564104.0960000004,
+        "tests_total": 291000.0,
+        "overall_total": 3855104.0960000004
+      },
+      "warnings": []
+    },
+    "approved_by": "Test Reviewer",
+    "approved_at": "2025-12-13T15:31:34.655628",
+    "overrides_applied": {
+      "line_overrides": [
+        {
+          "line_id": "RFP2-ITEM1",
+          "approved_sku": "DELT-HT-1C-1000-03",
+          "manual_unit_price": null,
+          "override_reason": "Test override – auto selected"
+        }
+      ],
+      "global_overrides": {
+        "margin_fraction": 0.12,
+        "tax_fraction": 0.22,
+        "test_exclusions": null
+      }
+    },
+    "pipeline_run_id": null
+  },
+  "audit_trail": [
+    {
+      "action": "draft_saved",
+      "saved_at": "2025-12-13T15:03:45.450013",
+      "saved_by": "Test Reviewer",
+      "notes": null
+    },
+    {
+      "action": "approved",
+      "approved_at": "2025-12-13T15:31:34.656158",
+      "approved_by": "Test Reviewer",
+      "notes": null
+    }
+  ]
+}

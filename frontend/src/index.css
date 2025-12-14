@@ -1,0 +1,42 @@
+/* Tailwind layers — MUST stay at the very top */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth transition between themes */
+:root {
+  --transition-fast: 150ms;
+}
+
+/* Transition for background & text color when theme switches */
+html {
+  transition: background-color var(--transition-fast) ease,
+              color var(--transition-fast) ease;
+}
+
+/* Apply global typography + reset */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Light theme (default) */
+  background-color: theme('colors.slate.100');
+  color: theme('colors.slate.900');
+}
+
+/* Dark mode override — handled by <html class="dark"> */
+html.dark body {
+  background-color: theme('colors.slate.900');
+  color: theme('colors.slate.100');
+}
+
+/* Code blocks */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

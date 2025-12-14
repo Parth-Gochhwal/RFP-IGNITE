@@ -1,0 +1,32 @@
+# --- Core web backend ---
+fastapi
+uvicorn[standard]
+pydantic
+
+# --- HTTP & HTML parsing (Sales Agent scraping / mock pages) ---
+requests
+beautifulsoup4
+lxml
+
+# --- PDF & data handling (RFP documents, tables, etc.) ---
+pypdf
+pandas
+numpy
+
+# --- Environment variables (for API keys like Google AI Studio) ---
+python-dotenv
+
+# --- LLM & orchestration (Agentic AI logic) ---
+google-generativeai          # for Gemini via Google AI Studio
+langchain
+langgraph
+
+# --- Vector store / RAG (if you later index RFPs / datasheets) ---
+chromadb
+sentence-transformers
+
+# --- Optional: nicely formatted console logging (for agent logs) ---
+rich
+
+
+reportlab

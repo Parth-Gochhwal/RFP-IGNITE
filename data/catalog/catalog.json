@@ -1,0 +1,773 @@
+{
+  "oems": [
+    { "name": "Polycab", "country": "India" },
+    { "name": "APAR", "country": "India" },
+    { "name": "Delton", "country": "India" }
+  ],
+  "products": [
+    {
+      "sku": "POLY-CC-25C-AR-01",
+      "oem": "Polycab",
+      "description": "25 core armoured control cable, ATC copper, HDPE insulated, HR PVC ST-2 sheath",
+      "category": "control_cable",
+      "technical_specs": {
+        "core_count": 25,
+        "pair_count": 0,
+        "conductor_material": "ATC copper",
+        "nominal_area_sqmm_per_core": 1.5,
+        "insulation_material": "HDPE",
+        "sheath_material": "HR PVC ST-2",
+        "armoured": true,
+        "screen_type": "poly-aluminium mylar tape with ATC drain wire",
+        "conductor_resistance_ohm_per_km_20C": 13.4,
+        "insulation_resistance_MOhm_per_km": 10000,
+        "standards": ["IS 8130", "BS 6234", "IS 5831", "IS 3975"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM1"]
+    },
+    {
+      "sku": "APAR-CC-25C-AR-02",
+      "oem": "APAR",
+      "description": "25 core armoured control cable, ATC copper, HDPE insulated, HR PVC sheath, improved IR",
+      "category": "control_cable",
+      "technical_specs": {
+        "core_count": 25,
+        "pair_count": 0,
+        "conductor_material": "ATC copper",
+        "nominal_area_sqmm_per_core": 1.5,
+        "insulation_material": "HDPE",
+        "sheath_material": "HR PVC ST-2",
+        "armoured": true,
+        "screen_type": "poly-aluminium mylar tape with ATC drain wire",
+        "conductor_resistance_ohm_per_km_20C": 13.0,
+        "insulation_resistance_MOhm_per_km": 12000,
+        "standards": ["IS 8130", "BS 6234", "IS 5831", "IS 3975"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM1"]
+    },
+    {
+      "sku": "DELT-CC-25C-AR-03",
+      "oem": "Delton",
+      "description": "25 core armoured control cable, ATC copper, HDPE insulated, heavy-duty sheath",
+      "category": "control_cable",
+      "technical_specs": {
+        "core_count": 25,
+        "pair_count": 0,
+        "conductor_material": "ATC copper",
+        "nominal_area_sqmm_per_core": 1.5,
+        "insulation_material": "HDPE",
+        "sheath_material": "HR PVC ST-2",
+        "armoured": true,
+        "screen_type": "poly-aluminium mylar tape with ATC drain wire",
+        "conductor_resistance_ohm_per_km_20C": 13.8,
+        "insulation_resistance_MOhm_per_km": 9500,
+        "standards": ["IS 8130", "BS 6234", "IS 5831", "IS 3975"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM1"]
+    },
+
+    {
+      "sku": "POLY-12P-AR-01",
+      "oem": "Polycab",
+      "description": "12-pair armoured copper telecom cable, 7/0.27 ATC, PE insulation, FRLS sheath",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 12,
+        "core_count": 24,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": true,
+        "loop_resistance_ohm_per_km_30C": 110,
+        "insulation_resistance_MOhm_per_km": 5000,
+        "standards": ["IEC 60228", "IS 5831", "IS 3975"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM2"]
+    },
+    {
+      "sku": "APAR-12P-AR-02",
+      "oem": "APAR",
+      "description": "12-pair armoured copper cable, enhanced insulation resistance",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 12,
+        "core_count": 24,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": true,
+        "loop_resistance_ohm_per_km_30C": 108,
+        "insulation_resistance_MOhm_per_km": 7000,
+        "standards": ["IEC 60228", "IS 5831", "IS 3975"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM2"]
+    },
+    {
+      "sku": "DELT-12P-AR-03",
+      "oem": "Delton",
+      "description": "12-pair armoured copper cable, standard spec",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 12,
+        "core_count": 24,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": true,
+        "loop_resistance_ohm_per_km_30C": 112,
+        "insulation_resistance_MOhm_per_km": 4800,
+        "standards": ["IEC 60228", "IS 5831", "IS 3975"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM2"]
+    },
+
+    {
+      "sku": "POLY-12P-UN-01",
+      "oem": "Polycab",
+      "description": "12-pair unarmoured copper cable, 7/0.27 ATC, PE insulation, FRLS sheath",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 12,
+        "core_count": 24,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": false,
+        "loop_resistance_ohm_per_km_30C": 110,
+        "insulation_resistance_MOhm_per_km": 4500,
+        "standards": ["IEC 60228", "IS 5831"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM3"]
+    },
+    {
+      "sku": "APAR-12P-UN-02",
+      "oem": "APAR",
+      "description": "12-pair unarmoured copper cable, low resistance",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 12,
+        "core_count": 24,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": false,
+        "loop_resistance_ohm_per_km_30C": 108,
+        "insulation_resistance_MOhm_per_km": 6000,
+        "standards": ["IEC 60228", "IS 5831"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM3"]
+    },
+    {
+      "sku": "DELT-12P-UN-03",
+      "oem": "Delton",
+      "description": "12-pair unarmoured copper cable, standard",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 12,
+        "core_count": 24,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": false,
+        "loop_resistance_ohm_per_km_30C": 112,
+        "insulation_resistance_MOhm_per_km": 4200,
+        "standards": ["IEC 60228", "IS 5831"]
+      },
+      "compatible_rfp_items": ["RFP1-ITEM3"]
+    },
+
+    {
+      "sku": "POLY-4P-UN-01",
+      "oem": "Polycab",
+      "description": "4-pair unarmoured copper cable, 7/0.32 ATC, PE insulation",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 4,
+        "core_count": 8,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.32",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": false,
+        "conductor_resistance_ohm_per_km_20C": 37.1,
+        "insulation_resistance_MOhm_per_km": 2000
+      },
+      "compatible_rfp_items": ["RFP1-ITEM4"]
+    },
+    {
+      "sku": "APAR-4P-UN-02",
+      "oem": "APAR",
+      "description": "4-pair unarmoured copper cable, improved IR",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 4,
+        "core_count": 8,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.32",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": false,
+        "conductor_resistance_ohm_per_km_20C": 36.0,
+        "insulation_resistance_MOhm_per_km": 2500
+      },
+      "compatible_rfp_items": ["RFP1-ITEM4"]
+    },
+    {
+      "sku": "DELT-4P-UN-03",
+      "oem": "Delton",
+      "description": "4-pair unarmoured copper cable, standard",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 4,
+        "core_count": 8,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.32",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": false,
+        "conductor_resistance_ohm_per_km_20C": 38.0,
+        "insulation_resistance_MOhm_per_km": 1800
+      },
+      "compatible_rfp_items": ["RFP1-ITEM4"]
+    },
+
+    {
+      "sku": "POLY-18P-AR-01",
+      "oem": "Polycab",
+      "description": "18-pair armoured copper cable, 7/0.27 ATC, PE insulation, FRLS sheath",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 18,
+        "core_count": 36,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": true,
+        "conductor_resistance_ohm_per_km_20C": 40,
+        "insulation_resistance_MOhm_per_km": 5000
+      },
+      "compatible_rfp_items": ["RFP1-ITEM5"]
+    },
+    {
+      "sku": "APAR-18P-AR-02",
+      "oem": "APAR",
+      "description": "18-pair armoured copper cable, low resistance",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 18,
+        "core_count": 36,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": true,
+        "conductor_resistance_ohm_per_km_20C": 38,
+        "insulation_resistance_MOhm_per_km": 6000
+      },
+      "compatible_rfp_items": ["RFP1-ITEM5"]
+    },
+    {
+      "sku": "DELT-18P-AR-03",
+      "oem": "Delton",
+      "description": "18-pair armoured copper cable, standard",
+      "category": "multi_pair_cable",
+      "technical_specs": {
+        "pair_count": 18,
+        "core_count": 36,
+        "conductor_material": "ATC copper",
+        "nominal_wire_stranding": "7/0.27",
+        "insulation_material": "MDPE",
+        "sheath_material": "FRLS/HR PVC",
+        "armoured": true,
+        "conductor_resistance_ohm_per_km_20C": 42,
+        "insulation_resistance_MOhm_per_km": 4500
+      },
+      "compatible_rfp_items": ["RFP1-ITEM5"]
+    },
+
+    {
+      "sku": "POLY-CAT6-AR-01",
+      "oem": "Polycab",
+      "description": "Armoured Cat6 STP cable, 23 AWG copper, FR-PVC sheath",
+      "category": "cat6_stp",
+      "technical_specs": {
+        "category": "Cat6",
+        "shielding": "STP",
+        "conductor_material": "bare copper",
+        "awg": 23,
+        "armoured": true,
+        "outer_diameter_mm": 9,
+        "frequency_MHz": 100
+      },
+      "compatible_rfp_items": ["RFP1-ITEM6"]
+    },
+    {
+      "sku": "APAR-CAT6-AR-02",
+      "oem": "APAR",
+      "description": "Armoured Cat6 STP cable, LSZH sheath",
+      "category": "cat6_stp",
+      "technical_specs": {
+        "category": "Cat6",
+        "shielding": "STP",
+        "conductor_material": "bare copper",
+        "awg": 23,
+        "armoured": true,
+        "outer_diameter_mm": 8.8,
+        "frequency_MHz": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM6"]
+    },
+    {
+      "sku": "DELT-CAT6-AR-03",
+      "oem": "Delton",
+      "description": "Armoured Cat6 STP cable, standard spec",
+      "category": "cat6_stp",
+      "technical_specs": {
+        "category": "Cat6",
+        "shielding": "STP",
+        "conductor_material": "bare copper",
+        "awg": 23,
+        "armoured": true,
+        "outer_diameter_mm": 9.2,
+        "frequency_MHz": 100
+      },
+      "compatible_rfp_items": ["RFP1-ITEM6"]
+    },
+
+    {
+      "sku": "POLY-PTFE-16AWG-01",
+      "oem": "Polycab",
+      "description": "PTFE insulated equipment wire, 16 AWG, 19/0.29, ET 250V",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 16,
+        "strand_construction": "19/0.29",
+        "conductor_material": "copper alloy",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM7"]
+    },
+    {
+      "sku": "APAR-PTFE-16AWG-02",
+      "oem": "APAR",
+      "description": "PTFE insulated equipment wire, 16 AWG, nickel-plated copper",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 16,
+        "strand_construction": "19/0.29",
+        "conductor_material": "nickel-plated copper",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM7"]
+    },
+    {
+      "sku": "DELT-PTFE-16AWG-03",
+      "oem": "Delton",
+      "description": "PTFE insulated equipment wire, 16 AWG, silver-plated copper",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 16,
+        "strand_construction": "19/0.29",
+        "conductor_material": "silver-plated copper",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM7"]
+    },
+
+    {
+      "sku": "POLY-PTFE-20AWG-01",
+      "oem": "Polycab",
+      "description": "PTFE insulated equipment wire, 20 AWG, 19/0.20",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 20,
+        "strand_construction": "19/0.20",
+        "conductor_material": "copper alloy",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM8"]
+    },
+    {
+      "sku": "APAR-PTFE-20AWG-02",
+      "oem": "APAR",
+      "description": "PTFE insulated equipment wire, 20 AWG, nickel-plated copper",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 20,
+        "strand_construction": "19/0.20",
+        "conductor_material": "nickel-plated copper",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM8"]
+    },
+    {
+      "sku": "DELT-PTFE-20AWG-03",
+      "oem": "Delton",
+      "description": "PTFE insulated equipment wire, 20 AWG, silver-plated copper",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 20,
+        "strand_construction": "19/0.20",
+        "conductor_material": "silver-plated copper",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM8"]
+    },
+
+    {
+      "sku": "POLY-PTFE-24AWG-01",
+      "oem": "Polycab",
+      "description": "PTFE insulated equipment wire, 24 AWG, 19/0.13",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 24,
+        "strand_construction": "19/0.13",
+        "conductor_material": "copper alloy",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM9"]
+    },
+    {
+      "sku": "APAR-PTFE-24AWG-02",
+      "oem": "APAR",
+      "description": "PTFE insulated equipment wire, 24 AWG, nickel-plated copper",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 24,
+        "strand_construction": "19/0.13",
+        "conductor_material": "nickel-plated copper",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM9"]
+    },
+    {
+      "sku": "DELT-PTFE-24AWG-03",
+      "oem": "Delton",
+      "description": "PTFE insulated equipment wire, 24 AWG, silver-plated copper",
+      "category": "ptfe_wire",
+      "technical_specs": {
+        "awg": 24,
+        "strand_construction": "19/0.13",
+        "conductor_material": "silver-plated copper",
+        "insulation_material": "PTFE",
+        "voltage_rating_VAC": 250
+      },
+      "compatible_rfp_items": ["RFP1-ITEM9"]
+    },
+
+    {
+      "sku": "POLY-HT-1C-1000-01",
+      "oem": "Polycab",
+      "description": "1C x 1000 sqmm aluminium HT XLPE cable, earthed, 11 kV",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "system_voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "aluminium",
+        "area_sqmm": 1000,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true,
+        "standard": "IS 7098 Part-II"
+      },
+      "compatible_rfp_items": ["RFP2-ITEM1"]
+    },
+    {
+      "sku": "APAR-HT-1C-1000-02",
+      "oem": "APAR",
+      "description": "1C x 1000 sqmm aluminium HT XLPE cable, improved sheath",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "system_voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "aluminium",
+        "area_sqmm": 1000,
+        "insulation_material": "XLPE",
+        "sheath_material": "FR-PVC",
+        "armoured": true,
+        "standard": "IS 7098 Part-II"
+      },
+      "compatible_rfp_items": ["RFP2-ITEM1"]
+    },
+    {
+      "sku": "DELT-HT-1C-1000-03",
+      "oem": "Delton",
+      "description": "1C x 1000 sqmm aluminium HT cable, standard spec",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "system_voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "aluminium",
+        "area_sqmm": 1000,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true,
+        "standard": "IS 7098 Part-II"
+      },
+      "compatible_rfp_items": ["RFP2-ITEM1"]
+    },
+
+    {
+      "sku": "POLY-HT-3C-185-01",
+      "oem": "Polycab",
+      "description": "3C x 185 sqmm aluminium HT XLPE cable, 11 kV",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 185,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM2"]
+    },
+    {
+      "sku": "APAR-HT-3C-185-02",
+      "oem": "APAR",
+      "description": "3C x 185 sqmm aluminium HT XLPE cable, FRLS sheath",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 185,
+        "insulation_material": "XLPE",
+        "sheath_material": "FRLS PVC",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM2"]
+    },
+    {
+      "sku": "DELT-HT-3C-185-03",
+      "oem": "Delton",
+      "description": "3C x 185 sqmm aluminium HT XLPE cable, standard",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 185,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM2"]
+    },
+
+    {
+      "sku": "POLY-HT-3C-240-01",
+      "oem": "Polycab",
+      "description": "3C x 240 sqmm aluminium HT XLPE cable, 11 kV",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 240,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM3"]
+    },
+    {
+      "sku": "APAR-HT-3C-240-02",
+      "oem": "APAR",
+      "description": "3C x 240 sqmm aluminium HT XLPE cable, heavy-duty sheath",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 240,
+        "insulation_material": "XLPE",
+        "sheath_material": "FRLS PVC",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM3"]
+    },
+    {
+      "sku": "DELT-HT-3C-240-03",
+      "oem": "Delton",
+      "description": "3C x 240 sqmm aluminium HT XLPE cable, standard",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 240,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM3"]
+    },
+
+    {
+      "sku": "POLY-HT-3C-50-01",
+      "oem": "Polycab",
+      "description": "3C x 50 sqmm 11kV(E) grade HT XLPE fixed aluminium cable",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 50,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM4"]
+    },
+    {
+      "sku": "APAR-HT-3C-50-02",
+      "oem": "APAR",
+      "description": "3C x 50 sqmm 11kV(E) aluminium XLPE cable, FR sheath",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 50,
+        "insulation_material": "XLPE",
+        "sheath_material": "FR-PVC",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM4"]
+    },
+    {
+      "sku": "DELT-HT-3C-50-03",
+      "oem": "Delton",
+      "description": "3C x 50 sqmm 11kV(E) aluminium XLPE cable, standard",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 3,
+        "conductor_material": "aluminium",
+        "area_sqmm": 50,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM4"]
+    },
+
+    {
+      "sku": "POLY-HT-1C-50-01",
+      "oem": "Polycab",
+      "description": "1C x 50 sqmm 11kV(E) aluminium XLPE fixed cable",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "aluminium",
+        "area_sqmm": 50,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM5"]
+    },
+    {
+      "sku": "APAR-HT-1C-50-02",
+      "oem": "APAR",
+      "description": "1C x 50 sqmm 11kV(E) aluminium XLPE cable, FR sheath",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "aluminium",
+        "area_sqmm": 50,
+        "insulation_material": "XLPE",
+        "sheath_material": "FR-PVC",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM5"]
+    },
+    {
+      "sku": "DELT-HT-1C-50-03",
+      "oem": "Delton",
+      "description": "1C x 50 sqmm 11kV(E) aluminium XLPE cable, standard",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "aluminium",
+        "area_sqmm": 50,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM5"]
+    },
+
+    {
+      "sku": "POLY-HT-1C-630CU-01",
+      "oem": "Polycab",
+      "description": "1C x 630 sqmm copper HT XLPE cable",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "copper",
+        "area_sqmm": 630,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM6"]
+    },
+    {
+      "sku": "APAR-HT-1C-630CU-02",
+      "oem": "APAR",
+      "description": "1C x 630 sqmm copper HT XLPE cable, FR sheath",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "copper",
+        "area_sqmm": 630,
+        "insulation_material": "XLPE",
+        "sheath_material": "FR-PVC",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM6"]
+    },
+    {
+      "sku": "DELT-HT-1C-630CU-03",
+      "oem": "Delton",
+      "description": "1C x 630 sqmm copper HT XLPE cable, standard",
+      "category": "ht_power_cable",
+      "technical_specs": {
+        "voltage_kV": 11,
+        "core_count": 1,
+        "conductor_material": "copper",
+        "area_sqmm": 630,
+        "insulation_material": "XLPE",
+        "sheath_material": "PVC ST-2",
+        "armoured": true
+      },
+      "compatible_rfp_items": ["RFP2-ITEM6"]
+    }
+  ]
+}

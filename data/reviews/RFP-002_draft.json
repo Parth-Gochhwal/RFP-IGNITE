@@ -1,0 +1,23 @@
+{
+  "rfp_id": "RFP-002",
+  "saved_at": "2025-12-13T15:03:45.450013",
+  "saved_by": "Test Reviewer",
+  "request": {
+    "rfp_id": "RFP-002",
+    "overrides": [
+      {
+        "line_id": "RFP2-ITEM1",
+        "approved_sku": "DELT-HT-1C-1000-03",
+        "manual_unit_price": null,
+        "override_reason": "Test override – auto selected"
+      }
+    ],
+    "global_overrides": {
+      "margin_fraction": 0.12,
+      "tax_fraction": 0.22,
+      "test_exclusions": null
+    },
+    "reviewer": "Test Reviewer",
+    "notes": null
+  }
+}

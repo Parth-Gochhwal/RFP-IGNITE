@@ -1,0 +1,65 @@
+{
+  "currency": "INR",
+  "unit": "per_meter",
+  "products": [
+    { "sku": "POLY-CC-25C-AR-01", "unit_price": 900.0 },
+    { "sku": "APAR-CC-25C-AR-02", "unit_price": 930.0 },
+    { "sku": "DELT-CC-25C-AR-03", "unit_price": 870.0 },
+
+    { "sku": "POLY-12P-AR-01", "unit_price": 750.0 },
+    { "sku": "APAR-12P-AR-02", "unit_price": 780.0 },
+    { "sku": "DELT-12P-AR-03", "unit_price": 720.0 },
+
+    { "sku": "POLY-12P-UN-01", "unit_price": 600.0 },
+    { "sku": "APAR-12P-UN-02", "unit_price": 630.0 },
+    { "sku": "DELT-12P-UN-03", "unit_price": 580.0 },
+
+    { "sku": "POLY-4P-UN-01", "unit_price": 250.0 },
+    { "sku": "APAR-4P-UN-02", "unit_price": 270.0 },
+    { "sku": "DELT-4P-UN-03", "unit_price": 230.0 },
+
+    { "sku": "POLY-18P-AR-01", "unit_price": 800.0 },
+    { "sku": "APAR-18P-AR-02", "unit_price": 830.0 },
+    { "sku": "DELT-18P-AR-03", "unit_price": 770.0 },
+
+    { "sku": "POLY-CAT6-AR-01", "unit_price": 120.0 },
+    { "sku": "APAR-CAT6-AR-02", "unit_price": 135.0 },
+    { "sku": "DELT-CAT6-AR-03", "unit_price": 110.0 },
+
+    { "sku": "POLY-PTFE-16AWG-01", "unit_price": 80.0 },
+    { "sku": "APAR-PTFE-16AWG-02", "unit_price": 85.0 },
+    { "sku": "DELT-PTFE-16AWG-03", "unit_price": 78.0 },
+
+    { "sku": "POLY-PTFE-20AWG-01", "unit_price": 60.0 },
+    { "sku": "APAR-PTFE-20AWG-02", "unit_price": 65.0 },
+    { "sku": "DELT-PTFE-20AWG-03", "unit_price": 58.0 },
+
+    { "sku": "POLY-PTFE-24AWG-01", "unit_price": 50.0 },
+    { "sku": "APAR-PTFE-24AWG-02", "unit_price": 54.0 },
+    { "sku": "DELT-PTFE-24AWG-03", "unit_price": 48.0 },
+
+    { "sku": "POLY-HT-1C-1000-01", "unit_price": 3000.0 },
+    { "sku": "APAR-HT-1C-1000-02", "unit_price": 3150.0 },
+    { "sku": "DELT-HT-1C-1000-03", "unit_price": 2900.0 },
+
+    { "sku": "POLY-HT-3C-185-01", "unit_price": 1500.0 },
+    { "sku": "APAR-HT-3C-185-02", "unit_price": 1575.0 },
+    { "sku": "DELT-HT-3C-185-03", "unit_price": 1450.0 },
+
+    { "sku": "POLY-HT-3C-240-01", "unit_price": 2000.0 },
+    { "sku": "APAR-HT-3C-240-02", "unit_price": 2100.0 },
+    { "sku": "DELT-HT-3C-240-03", "unit_price": 1950.0 },
+
+    { "sku": "POLY-HT-3C-50-01", "unit_price": 400.0 },
+    { "sku": "APAR-HT-3C-50-02", "unit_price": 420.0 },
+    { "sku": "DELT-HT-3C-50-03", "unit_price": 380.0 },
+
+    { "sku": "POLY-HT-1C-50-01", "unit_price": 200.0 },
+    { "sku": "APAR-HT-1C-50-02", "unit_price": 210.0 },
+    { "sku": "DELT-HT-1C-50-03", "unit_price": 190.0 },
+
+    { "sku": "POLY-HT-1C-630CU-01", "unit_price": 2500.0 },
+    { "sku": "APAR-HT-1C-630CU-02", "unit_price": 2625.0 },
+    { "sku": "DELT-HT-1C-630CU-03", "unit_price": 2400.0 }
+  ]
+}

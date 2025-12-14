@@ -1,0 +1,53 @@
+{
+  "currency": "INR",
+  "tests": [
+    {
+      "code": "CC_TYPE_TEST_SUITE",
+      "description": "Full type test suite for copper control / communication cables as per IEC/IS, including HV, insulation, mechanical and flammability tests",
+      "price_per_batch": 120000.0,
+      "applies_to_categories": ["control_cable", "multi_pair_cable"]
+    },
+    {
+      "code": "CC_ACCEPTANCE_TEST_SUITE",
+      "description": "Acceptance tests for each lot of copper control / communication cables (HV test, insulation resistance, dimensional checks)",
+      "price_per_batch": 60000.0,
+      "applies_to_categories": ["control_cable", "multi_pair_cable"]
+    },
+    {
+      "code": "HT_TYPE_TEST_SUITE",
+      "description": "Full type test suite for HT XLPE power cables as per IS 7098 Part-II: dielectric, partial discharge, heating cycle, impulse withstand, flammability, mechanical tests",
+      "price_per_batch": 180000.0,
+      "applies_to_categories": ["ht_power_cable"]
+    },
+    {
+      "code": "HT_ACCEPTANCE_TEST_SUITE",
+      "description": "Acceptance tests for HT power cables for each lot (conductor tests, thickness, IR, HV, PD where applicable)",
+      "price_per_batch": 90000.0,
+      "applies_to_categories": ["ht_power_cable"]
+    },
+    {
+      "code": "ROUTINE_TEST_PER_DRUM",
+      "description": "Routine tests per drum: conductor resistance, HV, armour resistance",
+      "price_per_drum": 3500.0,
+      "applies_to_categories": ["control_cable", "multi_pair_cable", "ht_power_cable"]
+    },
+    {
+      "code": "SITE_PRE_DELIVERY_INSPECTION",
+      "description": "Pre-delivery inspection at vendor works by client representative including witnessing tests as per ATP and issuing inspection release note",
+      "price_per_visit": 40000.0,
+      "applies_to_categories": ["control_cable", "multi_pair_cable", "ht_power_cable", "cat6_stp", "ptfe_wire"]
+    },
+    {
+      "code": "CAT6_CERTIFICATION_TEST",
+      "description": "Certification of Cat6 STP cable up to 100/250 MHz including attenuation, NEXT, return loss and continuity tests",
+      "price_per_batch": 30000.0,
+      "applies_to_categories": ["cat6_stp"]
+    },
+    {
+      "code": "PTFE_WIRE_QUALIFICATION_TEST",
+      "description": "Qualification tests for PTFE equipment wire: dielectric test, insulation resistance, tensile and elongation tests",
+      "price_per_batch": 25000.0,
+      "applies_to_categories": ["ptfe_wire"]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "rfps": [
+    {
+      "id": "RFP-001",
+      "file": "data/rfps/rfp_001.pdf",
+      "buyer": "SDSC SHAR",
+      "title": "Supply of Control and Communications Grade Copper Cables",
+      "source_reference": "REQUEST FOR PROPOSAL (RFP) FOR SUPPLY OF COPPER CABLES",
+      "submission_due_date": "2026-02-13",
+      "currency": "INR",
+      "scope_of_supply": [
+        {
+          "line_id": "RFP1-ITEM1",
+          "description": "25 Core Armoured Control Cable",
+          "quantity_m": 11000,
+          "unit": "meter",
+          "category": "control_cable"
+        },
+        {
+          "line_id": "RFP1-ITEM2",
+          "description": "12 Pair Armoured Copper Cable",
+          "quantity_m": 3000,
+          "unit": "meter",
+          "category": "multi_pair_cable"
+        },
+        {
+          "line_id": "RFP1-ITEM3",
+          "description": "12 Pair Unarmoured Copper Cable",
+          "quantity_m": 5000,
+          "unit": "meter",
+          "category": "multi_pair_cable"
+        },
+        {
+          "line_id": "RFP1-ITEM4",
+          "description": "4 Pair Unarmoured Copper Cable",
+          "quantity_m": 5000,
+          "unit": "meter",
+          "category": "multi_pair_cable"
+        },
+        {
+          "line_id": "RFP1-ITEM5",
+          "description": "18 Pair Armoured Copper Cable",
+          "quantity_m": 3000,
+          "unit": "meter",
+          "category": "multi_pair_cable"
+        },
+        {
+          "line_id": "RFP1-ITEM6",
+          "description": "Armoured Cat6 STP Cable",
+          "quantity_m": 6000,
+          "unit": "meter",
+          "category": "cat6_stp"
+        },
+        {
+          "line_id": "RFP1-ITEM7",
+          "description": "PTFE Insulated Equipment Wire 16 AWG (10 colours, 4 rolls of 100 m each per colour)",
+          "quantity_m": 4000,
+          "unit": "meter",
+          "category": "ptfe_wire"
+        },
+        {
+          "line_id": "RFP1-ITEM8",
+          "description": "PTFE Insulated Equipment Wire 20 AWG (10 colours, 4 rolls of 100 m each per colour)",
+          "quantity_m": 4000,
+          "unit": "meter",
+          "category": "ptfe_wire"
+        },
+        {
+          "line_id": "RFP1-ITEM9",
+          "description": "PTFE Insulated Equipment Wire 24 AWG (10 colours, 4 rolls of 100 m each per colour)",
+          "quantity_m": 4000,
+          "unit": "meter",
+          "category": "ptfe_wire"
+        }
+      ],
+      "testing_requirements_summary": [
+        "Pre-delivery inspection at vendor works with electrical and mechanical tests as per Acceptance Test Plan.",
+        "HV tests between cores and between core and shield.",
+        "Insulation resistance checks and spark tests during production.",
+        "Warranty 12 months from commissioning or 18 months from dispatch."
+      ]
+    },
+    {
+      "id": "RFP-002",
+      "file": "data/rfps/rfp_002.pdf",
+      "buyer": "Gujarat State Electricity Corporation Limited (GSECL)",
+      "title": "Supply of HT Cables at GSECL, Ukai TPS",
+      "source_reference": "Tender for Supply of HT cable at GSECL, UTPS, ET-5919",
+      "submission_due_date": "2026-01-15",
+      "currency": "INR",
+      "scope_of_supply": [
+        {
+          "line_id": "RFP2-ITEM1",
+          "description": "Aluminium Cable 1 Core x 1000 sqmm HT",
+          "quantity": 7,
+          "unit": "kilometer",
+          "category": "ht_power_cable"
+        },
+        {
+          "line_id": "RFP2-ITEM2",
+          "description": "Aluminium Cable 3 Core x 185 sqmm HT",
+          "quantity": 4.2,
+          "unit": "kilometer",
+          "category": "ht_power_cable"
+        },
+        {
+          "line_id": "RFP2-ITEM3",
+          "description": "Aluminium Cable 3 Core x 240 sqmm XLPE 11 kV HT",
+          "quantity": 1,
+          "unit": "kilometer",
+          "category": "ht_power_cable"
+        },
+        {
+          "line_id": "RFP2-ITEM4",
+          "description": "3C x 50 sqmm 11kV(E) Grade HT XLPE Insulated Fixed Al Cable",
+          "quantity": 100,
+          "unit": "meter",
+          "category": "ht_power_cable"
+        },
+        {
+          "line_id": "RFP2-ITEM5",
+          "description": "1C x 50 sqmm 11kV(E) Grade HT XLPE Insulated Fixed Al Cable",
+          "quantity": 100,
+          "unit": "meter",
+          "category": "ht_power_cable"
+        },
+        {
+          "line_id": "RFP2-ITEM6",
+          "description": "Copper Cable 1 Core x 630 sqmm",
+          "quantity": 1000,
+          "unit": "meter",
+          "category": "ht_power_cable"
+        }
+      ],
+      "testing_requirements_summary": [
+        "Type tests as per IS 1554, IS 7098 and IS 9968 including dielectric, thermal, mechanical tests and flammability.",
+        "Acceptance tests for each lot: conductor tests, dimensional checks, insulation & sheath tests, HV and insulation resistance tests.",
+        "Routine tests for every drum: conductor resistance, HV test, armour resistance, partial discharge for XLPE cables.",
+        "Cables to bear ISI mark and be suitable for underground/trench installation in hot, humid, polluted conditions."
+      ]
+    }
+  ]
+}

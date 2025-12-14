@@ -1,0 +1,1742 @@
+[
+  {
+    "timestamp": "2025-12-13T09:25:52.090902Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:25:52.186126Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:25:52.197674Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:25:52.210399Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:25:52.243756Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:25:52.271974Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.471067Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.569059Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.581433Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.591756Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.627894Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.654767Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.699930Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.784220Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.791447Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.801055Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.866050Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.961265Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.977245Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:02.987942Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:03.021042Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:03.050931Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:03.092167Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:03.188302Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:03.200090Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:03.210426Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.346750Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.434073Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.444258Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.456834Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.491379Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.523136Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.572702Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.645566Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.652201Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.661907Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.684418Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:26:11.701293Z",
+    "event_type": "review_approved",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "approved_by": "Test Reviewer",
+      "approved_at": "2025-12-13T14:56:11.700363"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:40.799747Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:40.909969Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:40.921159Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:40.932934Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:40.974562Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:41.007749Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.590390Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.704277Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.715655Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.726553Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.759132Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.789889Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.840642Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.942772Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.954847Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:42.966541Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.039082Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.195279Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.223678Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.248521Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.320027Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.353749Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.398393Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.508112Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.520623Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:43.533146Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.403325Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.521361Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.533458Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.544436Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.585530Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.612753Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.662127Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.777106Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.789618Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.801159Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.843261Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:33:50.877067Z",
+    "event_type": "review_approved",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "approved_by": "Test Reviewer",
+      "approved_at": "2025-12-13T15:03:50.876402"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:50.313736Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:50.411007Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:50.424171Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:50.435238Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:50.466057Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:50.493182Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.052698Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.159397Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.170789Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.181922Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.219412Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.245575Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.290906Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.403979Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.417152Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.431029Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.489246Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.606955Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.618143Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.629350Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.668068Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.694140Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.738421Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.839021Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.852274Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:53.863752Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:56.874273Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:56.975321Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:56.987767Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:56.998789Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.031745Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.060479Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.094579Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.171117Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.181865Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.190370Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.217030Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:35:57.251479Z",
+    "event_type": "review_approved",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "approved_by": "Test Reviewer",
+      "approved_at": "2025-12-13T15:05:57.250679"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:42:33.844217Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:42:33.972246Z",
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:42:33.984266Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:42:33.995204Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:42:34.038985Z",
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T09:42:34.072794Z",
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:24.280888Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:24.297907Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:24.157152Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:24.409135Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:24.421116Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:24.157152Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:24.431721Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:24.157152Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:24.474629Z",
+    "pipeline_run_id": null,
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:24.521379Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.057288Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.074268Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.010054Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.178270Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.189561Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.010054Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.200505Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.010054Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.231933Z",
+    "pipeline_run_id": null,
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.352282Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.442748Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.458748Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.406779Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.554289Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.565601Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.406779Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.577526Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.406779Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.645080Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.664355Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.606921Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.772621Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.784283Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.606921Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.796236Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.606921Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.827776Z",
+    "pipeline_run_id": null,
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.856723Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.899489Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:30.915045Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.871894Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:31.009976Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:31.022330Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.871894Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:31.033621Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:30.871894Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.217474Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.231946Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:34.185467Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.326954Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.342565Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:34.185467Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.353940Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:34.185467Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.403911Z",
+    "pipeline_run_id": null,
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.430211Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.471915Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.486061Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:34.444794Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.587506Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.597590Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:34.444794Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.609135Z",
+    "pipeline_run_id": "run-2025-12-13T10:01:34.444794Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.643692Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T10:01:34.671471Z",
+    "pipeline_run_id": null,
+    "event_type": "review_approved",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "approved_by": "Test Reviewer",
+      "approved_at": "2025-12-13T15:31:34.670719"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:38.285529Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:38.379951Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:38.110767Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:38.751808Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:38.789845Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:38.110767Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:38.827398Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:38.110767Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:38.948285Z",
+    "pipeline_run_id": null,
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:39.148396Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:53.430476Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:53.490644Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:53.284450Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:53.862866Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:53.898330Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:53.284450Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:53.939331Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:53.284450Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:54.065760Z",
+    "pipeline_run_id": null,
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:54.171554Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:54.356546Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:54.415131Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:54.212180Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:54.774333Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:54.818629Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:54.212180Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:54.854861Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:54.212180Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.061448Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.112690Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:54.940110Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.452289Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.488687Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:54.940110Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.525443Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:54.940110Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.655702Z",
+    "pipeline_run_id": null,
+    "event_type": "technical_recommendations",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "recommendation_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.754839Z",
+    "pipeline_run_id": null,
+    "event_type": "pricing_completed",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "material_total": 2608390.0,
+      "overall_total": 2899390.0
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.919825Z",
+    "pipeline_run_id": null,
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:55.972606Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:55.800536Z",
+    "event_type": "sales_selected_rfp",
+    "payload": {
+      "selected_rfp": "RFP-002",
+      "upcoming_count": null
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:56.401414Z",
+    "pipeline_run_id": null,
+    "event_type": "spec_robustness_summary",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT",
+      "missing_count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:56.475979Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:55.800536Z",
+    "event_type": "spec_robustness_run",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "status": "FAIL_SOFT"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T11:52:56.539710Z",
+    "pipeline_run_id": "run-2025-12-13T11:52:55.800536Z",
+    "event_type": "main_inputs_prepared",
+    "payload": {
+      "rfp_id": "RFP-002",
+      "technical_input_present": true,
+      "pricing_input_present": true
+    }
+  }
+]
