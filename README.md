@@ -229,6 +229,7 @@ Open the UI
 - Download export bundle (JSON, CSV, summary, audit log)
 
 ## Project Structure
+```
 RFP-IGNITE/
 ├── api.py
 ├── main.py
@@ -251,6 +252,7 @@ RFP-IGNITE/
 │   ├── rfps/
 │   └── audit_log.json
 └── requirements.txt
+```
 
 ## Scalability Perspective
 While implemented as a prototype, the architecture supports:
