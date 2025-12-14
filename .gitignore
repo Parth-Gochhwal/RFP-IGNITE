@@ -69,3 +69,8 @@ logs/
 .cache/
 coverage/
 /.pytest_cache/
+
+# Runtime / demo outputs
+data/audit_log.json
+data/reviews/*.json
+data/reviews/*.zip
