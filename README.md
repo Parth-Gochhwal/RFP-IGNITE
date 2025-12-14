@@ -68,7 +68,8 @@ The system is designed to augment enterprise decision-making, not replace human 
 ## System Architecture (High-Level)
 
 
-```Web UI (React)
+```
+Web UI (React)
     │
     ▼
 FastAPI Backend
@@ -230,6 +231,9 @@ Open the UI
 
 ## Project Structure
 ```
+## Project Structure
+
+```text
 RFP-IGNITE/
 ├── api.py
 ├── main.py
@@ -239,20 +243,42 @@ RFP-IGNITE/
 ├── pricing_agent.py
 ├── spec_robustness_engine.py
 ├── audit_logger.py
+│
 ├── review/
 │   ├── router.py
 │   ├── export.py
 │   ├── models.py
 │   └── store.py
+│
 ├── frontend/
 │   └── src/
+│
+├── docs/
+│   └── screenshots/
+│       ├── dashboard.png
+│       ├── agent-pipeline.png
+│       ├── pricing-review.png
+│       ├── review-console.png
+│       ├── review-console2.png
+│       └── review-console3.png
+│
 ├── data/
 │   ├── catalog/
 │   ├── pricing/
 │   ├── rfps/
 │   └── audit_log.json
-└── requirements.txt
+│
+├── mock_sites/
+├── scripts/
+├── requirements.txt
+├── package.json
+├── package-lock.json
+├── README.md
+└── LICENSE
+
 ```
+
+Structure reflects a clear separation between orchestration logic, domain agents, review workflows, UI, and audit artifacts.
 
 ## Scalability Perspective
 While implemented as a prototype, the architecture supports:
