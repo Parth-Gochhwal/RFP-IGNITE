@@ -74,3 +74,8 @@ coverage/
 data/audit_log.json
 data/reviews/*.json
 data/reviews/*.zip
+
+# Runtime / demo outputs
+data/audit_log.json
+data/reviews/*.json
+data/reviews/*.zip
